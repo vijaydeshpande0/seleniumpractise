@@ -12,6 +12,7 @@ public class Arrayofproducts {
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
 		driver.manage().window().maximize();
+	//	ahgahgdhad
 		
 	}
 
