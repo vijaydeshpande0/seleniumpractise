@@ -10,7 +10,8 @@ public class Arrayofproducts {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("https://rahulshettyacademy.com/seleniumPractise/#/"); 
+		driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
+		driver.manage().window().maximize();
 		
 	}
 
